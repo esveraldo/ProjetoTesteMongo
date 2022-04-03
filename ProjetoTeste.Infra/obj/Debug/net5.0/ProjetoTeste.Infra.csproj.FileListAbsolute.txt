@@ -1,0 +1,17 @@
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Infra\bin\Debug\net5.0\ProjetoTeste.Infra.deps.json
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Infra\bin\Debug\net5.0\ProjetoTeste.Infra.dll
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Infra\bin\Debug\net5.0\ref\ProjetoTeste.Infra.dll
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Infra\bin\Debug\net5.0\ProjetoTeste.Infra.pdb
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Infra\obj\Debug\net5.0\ProjetoTeste.Infra.csproj.AssemblyReference.cache
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Infra\obj\Debug\net5.0\ProjetoTeste.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Infra\obj\Debug\net5.0\ProjetoTeste.Infra.AssemblyInfoInputs.cache
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Infra\obj\Debug\net5.0\ProjetoTeste.Infra.AssemblyInfo.cs
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Infra\obj\Debug\net5.0\ProjetoTeste.Infra.csproj.CoreCompileInputs.cache
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Infra\obj\Debug\net5.0\ProjetoTeste.Infra.dll
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Infra\obj\Debug\net5.0\ref\ProjetoTeste.Infra.dll
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Infra\obj\Debug\net5.0\ProjetoTeste.Infra.pdb
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Infra\bin\Debug\net5.0\ProjetoTeste.Application.dll
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Infra\bin\Debug\net5.0\ProjetoTeste.Application.pdb
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Infra\obj\Debug\net5.0\ProjetoTeste.Infra.csproj.CopyComplete
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Infra\bin\Debug\net5.0\ProjetoTeste.Domain.dll
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Infra\bin\Debug\net5.0\ProjetoTeste.Domain.pdb

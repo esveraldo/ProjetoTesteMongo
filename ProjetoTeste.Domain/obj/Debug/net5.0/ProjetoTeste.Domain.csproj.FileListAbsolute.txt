@@ -1,0 +1,12 @@
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\net5.0\ProjetoTeste.Domain.deps.json
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\net5.0\ProjetoTeste.Domain.dll
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\net5.0\ref\ProjetoTeste.Domain.dll
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Domain\bin\Debug\net5.0\ProjetoTeste.Domain.pdb
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Domain\obj\Debug\net5.0\ProjetoTeste.Domain.csproj.AssemblyReference.cache
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Domain\obj\Debug\net5.0\ProjetoTeste.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Domain\obj\Debug\net5.0\ProjetoTeste.Domain.AssemblyInfoInputs.cache
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Domain\obj\Debug\net5.0\ProjetoTeste.Domain.AssemblyInfo.cs
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Domain\obj\Debug\net5.0\ProjetoTeste.Domain.csproj.CoreCompileInputs.cache
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Domain\obj\Debug\net5.0\ProjetoTeste.Domain.dll
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Domain\obj\Debug\net5.0\ref\ProjetoTeste.Domain.dll
+C:\ProjetosDeEstudo\ProjetoTeste\ProjetoTeste.Domain\obj\Debug\net5.0\ProjetoTeste.Domain.pdb
